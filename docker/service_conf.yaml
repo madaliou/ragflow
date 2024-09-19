@@ -23,7 +23,7 @@ redis:
   host: 'redis:6379'
 user_default_llm:
   factory: 'OpenAI'
-  api_key: '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'
+  api_key: 'sk-xxxx'
   base_url: ''
 oauth:
   github:
